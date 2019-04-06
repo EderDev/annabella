@@ -1,1 +1,2 @@
-Projeto de estudo	
+Projeto de estudo.
+Realizando correção na página contato
