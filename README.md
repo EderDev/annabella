@@ -1,2 +1,2 @@
 Projeto de estudo.
-Realizando correção na página contato
+Anna Bella é um site ficticio para uma modelo. 
